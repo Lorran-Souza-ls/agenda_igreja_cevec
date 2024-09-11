@@ -1,0 +1,5 @@
+Flask==x.x.x
+boto3==x.x.x
+paho-mqtt==x.x.x
+pandas==x.x.x
+scikit-learn==x.x.x
